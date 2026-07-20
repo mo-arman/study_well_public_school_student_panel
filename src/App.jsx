@@ -19,12 +19,12 @@ import {
    See README.md in this project for the full step-by-step setup guide.
    ========================================================================= */
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyALh-KwTOvgkXnnRlwZowPeblPO9y8GZjk",
+  authDomain: "study-well-school-c18ea.firebaseapp.com",
+  projectId: "study-well-school-c18ea",
+  storageBucket: "study-well-school-c18ea.firebasestorage.app",
+  messagingSenderId: "993902231642",
+  appId: "1:993902231642:web:8c444a8144f4c724d39863",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
