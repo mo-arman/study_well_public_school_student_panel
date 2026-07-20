@@ -8,5 +8,5 @@ import react from "@vitejs/plugin-react";
 // If you're deploying to a custom domain instead of github.io, set base to "/".
 export default defineConfig({
   plugins: [react()],
-  base: "/study-well-portal/",
+  base:"/",
 });
